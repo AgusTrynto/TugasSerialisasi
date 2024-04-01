@@ -1,0 +1,1 @@
+perbedaannya jika kita menggunakan transient maka isi dari variabel tersebut akan berubah menjadi null setelah di deserialisasi
